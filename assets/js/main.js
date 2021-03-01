@@ -54,7 +54,7 @@ $(document).ready(function() {
 
 	/* ======= Countdown ========= */
 	// set the date we're counting down to
-    var target_date = new Date("March 05, 2021").getTime();
+    var target_date = new Date("May 15, 2021").getTime();
 
     // variables for time units
     var days, hours, minutes, seconds;
